@@ -1,3 +1,29 @@
+# next-ai-draw-io
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+通过与 AI 对话绘制和编辑 draw.io 图表，含 Web、桌面应用与面向编码工具的 MCP server。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 # Next AI Draw.io
